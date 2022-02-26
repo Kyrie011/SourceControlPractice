@@ -1,8 +1,8 @@
 public class Divide {
     public static void main(String[] args) {
-        int a=10;
-        int b=2;
+        int a=20;
+        int b=3;
 
-        System.out.println(a/b);
+        System.out.println("The divison is: "+(a/b));
     }
 }
